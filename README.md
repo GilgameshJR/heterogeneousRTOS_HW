@@ -4,7 +4,8 @@ This hardware platform is meant to run HeterogenousRTOS (using Vitis) which can 
 
 Please refer to the following guide: [Using Export Hardware • Vivado Design Suite User Guide](https://docs.amd.com/r/en-US/ug909-vivado-partial-reconfiguration/Using-Export-Hardware) to export the hardware platform file (XSA) to be used in the HeterogeneousRTOS Vitis Project.
 
-Related repositories:\
+<h3>Related repositories:</h3>
+
 [HeterogeneousRTOS Source Code](https://github.com/francesco-ratti/heterogeneousRTOS)\
 [Fault Detector Vitis HLS Project](https://github.com/francesco-ratti/heterogeneousRTOS_faultDetector_HLS)\
 [Benchmarks source code and experimental evaluation artifacts](https://github.com/francesco-ratti/heterogeneousRTOS_benchmarks)\
